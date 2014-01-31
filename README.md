@@ -3,7 +3,7 @@ Orange
 
 Test repository
 
- Used as a play area / sandbox
+ Used as a play area / sand box
 
  Newer line
  Newest line
